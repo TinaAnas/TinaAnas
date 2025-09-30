@@ -1,4 +1,4 @@
-# Hi there, I'm Anas Tina 👋
+# Hi there, mu name is Anas Tina 👋
 
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?logo=substack)](https://practicaldatamodeling2arabs.substack.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@VillageForLearning)
